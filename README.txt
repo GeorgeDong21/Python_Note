@@ -1,4 +1,2 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
+In order to offer myself a reference of learning Python and all the necessary details could be found easily, I'd like to update it to my repo.
+And the mooc of Python class could be found there:http://study.163.com/course/introduction/1004987028.htm
